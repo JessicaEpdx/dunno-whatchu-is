@@ -10,7 +10,7 @@ gulp.task("bundle", function () {
 	})
 	.transform(reactify)
 	.bundle()
-	.pipe(source("main.jsx"))
+	.pipe(source("main.js"))
 	.pipe(gulp.dest("app/dist"))
 });
 
