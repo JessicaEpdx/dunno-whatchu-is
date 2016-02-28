@@ -1,0 +1,23 @@
+{
+  "name": "dunno!",
+  "description": "dunno!",
+  "main": "index.js",
+  "authors": [
+    "JessicaEpdx"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "https://github.com/JessicaEpdx/dunno-whatchu-is.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "~3.3.6"
+  }
+}
